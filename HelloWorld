@@ -1,0 +1,12 @@
+/*
+*My assignment1-01
+*Created by Gavin Zhou
+*Created on 2019-02-01
+*This program can print out "Hello world" 
+*/
+class MyClass{
+	public static void
+main(String[] args) {
+	System.out.println("HelloWorld");
+}
+}
